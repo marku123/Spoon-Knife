@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ### Well hello there chum chum 2!
+=======
+### Dummies, well hello there!
+>>>>>>> parent of efa4839... test coom 3
 
 This repository is meant to provide an example for *forking* a repository on GitHub.
 
