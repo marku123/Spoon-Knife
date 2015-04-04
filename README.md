@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ### Well hello there chum chum 2!
 =======
 ### Dummies, well hello there!
@@ -7,6 +8,9 @@
 =======
 ### Well hello there!
 >>>>>>> parent of 12ec867... Revert "test coom 3"
+=======
+### Well hello there!
+>>>>>>> parent of aedcae0... Test Commit
 
 This repository is meant to provide an example for *forking* a repository on GitHub.
 
